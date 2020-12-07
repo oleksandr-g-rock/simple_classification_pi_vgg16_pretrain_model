@@ -8,7 +8,7 @@ import numpy as np
 model = VGG16(weights='imagenet')
 
 #load image and change size to 224*224
-img_path = 'ship.jpeg'
+img_path = 'demo.jpg'
 img = image.load_img(img_path, target_size=(224, 224))
 
 #convert image to array
