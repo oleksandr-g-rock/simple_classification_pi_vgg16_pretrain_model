@@ -7,7 +7,6 @@
 <h3 align="left">https://oleksandrg.medium.com/simple-image-classification-on-raspberry-pi-used-the-pre-trained-model-vgg16-part-4-0-afa4f8bdf775</h3>
 
 
-
 <h2 align="left">Also</h2>
 <h2 align="left">If you were interested in this code, please put a star ✰ for this repo </h2>
 <h2 align="left">Also, if you were interested in my article, please subscribe to my blog </h2>
